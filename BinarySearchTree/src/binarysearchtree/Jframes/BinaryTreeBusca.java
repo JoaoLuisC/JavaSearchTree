@@ -69,7 +69,7 @@ public class BinaryTreeBusca extends javax.swing.JFrame {
 
         LabelResultados.setFont(new java.awt.Font("Times New Roman", 0, 36)); // NOI18N
         LabelResultados.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        LabelResultados.setText("Resultados:");
+        LabelResultados.setText("Resultado:");
 
         jLabel1.setFont(new java.awt.Font("Arial", 0, 18)); // NOI18N
         jLabel1.setText("IBGE CODE : ");
